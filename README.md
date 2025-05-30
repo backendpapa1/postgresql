@@ -1,6 +1,4 @@
-Here's your content transformed into a **cookbook-style SQL guide**, with each section as a *recipe* for a specific concept or skill.
 
----
 
 # 🧑‍🍳 **SQL Beginner-to-Intermediate Cookbook**
 
@@ -267,6 +265,4 @@ SELECT * FROM actors
 WHERE first_name ILIKE 'a%';
 ```
 
----
 
-Let me know if you'd like this turned into a downloadable PDF or split into sections for a tutorial or learning module!
